@@ -17,3 +17,11 @@ conda activate gs
 ##训练命令
 cd gaussian-splatting
 python train.py -s /path/to/data --iterations 30000
+代码来源：
+3DGS 官方仓库：https://github.com/graphdeco-inria/gaussian-splatting
+
+COLMAP：https://colmap.github.io/
+
+threestudio：https://github.com/threestudio-project/threestudio
+
+Mip-NeRF 360：https://github.com/mrnerf/mipnerf360
